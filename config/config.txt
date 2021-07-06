@@ -1,17 +1,21 @@
 [PROJECT]
 # com.это_значение.app
-package = template
-data_url = https://ostats-23c52-default-rtdb.europe-west1.firebasedatabase.app/GoldPlayers.json
+package = betwin
+data_url = https://my-app-53d64-default-rtdb.firebaseio.com/betwin.json
 
 [KEYSTORE]
-name = ANDREI IVANOV
+name = IVAN IVANOV
 
 [TEXT]
-app_name = Приложуха
-tab_title = ВАУ
+app_name = BetWin
+tab_title = Конторы
 about_text :
-    Тут какой то текст
-    Можно в несколько строк
+	Спорт это неотъемлимая часть всей нашей жизни.
+	В нашем приложении представлены лучшие букмекерские конторы в нашей
+	стране, и странах СНГ.
+	Играйте вместе со спортменами и радуйте себя и близких достойными выигрышами.
+	Будьте в эпицентре событий, оставайтесь на вершине!!!!
+	Побеждайте и удачи вам!
 
 [COLORS_DAY]
 colorPrimary = #FF6200EE
